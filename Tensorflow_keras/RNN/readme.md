@@ -1,6 +1,6 @@
-Recurrent Neural networks
+Recurrent Neural networks - 3 examples
 
-Three examples
+
 
 -Predicting sine wave
 -Forecasting timeseries
